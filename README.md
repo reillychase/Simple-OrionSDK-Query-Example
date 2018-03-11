@@ -1,5 +1,6 @@
-# Simple OrionSDK Query Example: Quickstart
-This is an example of a Solarwinds SQL query.
+# Python OrionSDK Simple Query Example
+***Quickstart***
+Main.py is a simple example of a Solarwinds SQL query.
 
 It uses Python OrionSDK library: https://github.com/solarwinds/orionsdk-python
 
